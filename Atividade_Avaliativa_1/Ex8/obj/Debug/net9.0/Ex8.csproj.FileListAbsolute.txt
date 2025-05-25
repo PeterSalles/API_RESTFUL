@@ -1,0 +1,14 @@
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\bin\Debug\net9.0\Ex8.exe
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\bin\Debug\net9.0\Ex8.deps.json
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\bin\Debug\net9.0\Ex8.runtimeconfig.json
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\bin\Debug\net9.0\Ex8.dll
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\bin\Debug\net9.0\Ex8.pdb
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\obj\Debug\net9.0\Ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\obj\Debug\net9.0\Ex8.AssemblyInfoInputs.cache
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\obj\Debug\net9.0\Ex8.AssemblyInfo.cs
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\obj\Debug\net9.0\Ex8.csproj.CoreCompileInputs.cache
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\obj\Debug\net9.0\Ex8.dll
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\obj\Debug\net9.0\refint\Ex8.dll
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\obj\Debug\net9.0\Ex8.pdb
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\obj\Debug\net9.0\Ex8.genruntimeconfig.cache
+C:\Cods\C#\Atividade_Avaliativa_1\Ex8\obj\Debug\net9.0\ref\Ex8.dll

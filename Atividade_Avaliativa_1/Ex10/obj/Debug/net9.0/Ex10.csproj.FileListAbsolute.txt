@@ -1,0 +1,14 @@
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\bin\Debug\net9.0\Ex10.exe
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\bin\Debug\net9.0\Ex10.deps.json
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\bin\Debug\net9.0\Ex10.runtimeconfig.json
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\bin\Debug\net9.0\Ex10.dll
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\bin\Debug\net9.0\Ex10.pdb
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\obj\Debug\net9.0\Ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\obj\Debug\net9.0\Ex10.AssemblyInfoInputs.cache
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\obj\Debug\net9.0\Ex10.AssemblyInfo.cs
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\obj\Debug\net9.0\Ex10.csproj.CoreCompileInputs.cache
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\obj\Debug\net9.0\Ex10.dll
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\obj\Debug\net9.0\refint\Ex10.dll
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\obj\Debug\net9.0\Ex10.pdb
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\obj\Debug\net9.0\Ex10.genruntimeconfig.cache
+C:\Cods\C#\Atividade_Avaliativa_1\Ex10\obj\Debug\net9.0\ref\Ex10.dll
